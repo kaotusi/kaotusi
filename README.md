@@ -2,7 +2,7 @@
 
 # Hey, I'm 烤吐司 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=烤吐司&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=大学生程序员%20%7C%20Code%20❤%20Open%20Source&descSize=18&descAlignY=52&width=100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=烤吐司&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=在职牛马%20%7C%20Code%20❤%20Open%20Source&descSize=18&descAlignY=52&width=100%" alt="header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Learning+Everyday+%F0%9F%9A%80;Code+%E2%9D%A4+Open+Source;Stay+Hungry%2C+Stay+Foolish)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-> 🎓 大学生程序员 | 热爱技术 | 探索无限可能
+> 🎓 在职 | 热爱技术 | 探索无限可能
 
 - 🔭 目前正在学习和探索新技术
 - 🌱 持续成长中...
